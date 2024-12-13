@@ -6,7 +6,7 @@
 
 var vars = {
     file : 'index.html',
-    path : 'http://soslabbpn.github.io',//path to the index.html
+    path : 'https://soslabbpn.github.io',//path to the index.html
     theme : 'theasys',
     google_maps_api_key : 'YOUR_API_KEY_HERE',
 };
